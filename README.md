@@ -31,11 +31,11 @@
 ### 统一对话 — 智能问答
 ![统一对话](images/chat-unified.png)
 
-### AI 思考过程可视化
-![思考过程](images/chat-thinking.png)
+![知识库管理](images/kb-manage.png)
 
 ### 知识库管理
-![知识库管理](images/kb-manage.png)
+![思考过程](images/chat-thinking.png)
+
 
 ### 干部简历查询
 ![简历查询](images/resume-lookup.png)
