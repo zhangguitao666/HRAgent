@@ -26,6 +26,22 @@
 
 ---
 
+## 系统截图
+
+### 统一对话 — 智能问答
+![统一对话](images/chat-unified.png)
+
+### AI 思考过程可视化
+![思考过程](images/chat-thinking.png)
+
+### 知识库管理
+![知识库管理](images/kb-manage.png)
+
+### 干部简历查询
+![简历查询](images/resume-lookup.png)
+
+---
+
 ## Tech Stack
 
 | 层级 | 技术 |
@@ -190,6 +206,7 @@ LangChain/
 | `/api/faq/chat` | POST | FAQ 问答（备用） |
 | `/api/resume/parse` | POST | 简历解析 |
 | `/api/lifecycle/chat` | POST | 入转调离引导 |
+| `/api/resume-lookup/lookup` | POST | 干部简历查询（Dify 流水线） |
 | `/api/health` | GET | 健康检查 |
 
 ---
