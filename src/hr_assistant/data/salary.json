@@ -1,0 +1,9 @@
+[
+  {"id": "EMP001", "name": "张三", "department": "技术部", "base_salary": 30000, "performance_bonus": 5000, "subsidy": 2000, "insurance_deduction": 4500, "tax_deduction": 2800, "net_salary": 29700, "year": 2026, "month": 5},
+  {"id": "EMP001", "name": "张三", "department": "技术部", "base_salary": 30000, "performance_bonus": 4500, "subsidy": 2000, "insurance_deduction": 4500, "tax_deduction": 2750, "net_salary": 29250, "year": 2026, "month": 4},
+  {"id": "EMP002", "name": "李四", "department": "市场部", "base_salary": 35000, "performance_bonus": 8000, "subsidy": 1500, "insurance_deduction": 4800, "tax_deduction": 4200, "net_salary": 35500, "year": 2026, "month": 5},
+  {"id": "EMP002", "name": "李四", "department": "市场部", "base_salary": 35000, "performance_bonus": 6000, "subsidy": 1500, "insurance_deduction": 4800, "tax_deduction": 3950, "net_salary": 33750, "year": 2026, "month": 4},
+  {"id": "EMP003", "name": "王五", "department": "人力资源部", "base_salary": 45000, "performance_bonus": 10000, "subsidy": 3000, "insurance_deduction": 5500, "tax_deduction": 6800, "net_salary": 45700, "year": 2026, "month": 5},
+  {"id": "EMP004", "name": "赵六", "department": "技术部", "base_salary": 18000, "performance_bonus": 3000, "subsidy": 1000, "insurance_deduction": 3000, "tax_deduction": 1500, "net_salary": 17500, "year": 2026, "month": 5},
+  {"id": "EMP005", "name": "钱七", "department": "财务部", "base_salary": 28000, "performance_bonus": 4000, "subsidy": 2000, "insurance_deduction": 4000, "tax_deduction": 2500, "net_salary": 27500, "year": 2026, "month": 5}
+]

@@ -1,0 +1,14 @@
+[
+  {"id": "EMP001", "name": "张三", "department": "技术部", "date": "2026-05-01", "check_in": "09:00", "check_out": "18:00", "status": "正常"},
+  {"id": "EMP001", "name": "张三", "department": "技术部", "date": "2026-05-02", "check_in": "09:15", "check_out": "18:30", "status": "迟到"},
+  {"id": "EMP001", "name": "张三", "department": "技术部", "date": "2026-05-03", "check_in": "08:50", "check_out": "17:30", "status": "早退"},
+  {"id": "EMP002", "name": "李四", "department": "市场部", "date": "2026-05-01", "check_in": "09:00", "check_out": "18:00", "status": "正常"},
+  {"id": "EMP002", "name": "李四", "department": "市场部", "date": "2026-05-02", "check_in": "09:00", "check_out": "18:00", "status": "正常"},
+  {"id": "EMP002", "name": "李四", "department": "市场部", "date": "2026-05-03", "check_in": "", "check_out": "", "status": "请假"},
+  {"id": "EMP003", "name": "王五", "department": "人力资源部", "date": "2026-05-01", "check_in": "08:30", "check_out": "19:00", "status": "正常"},
+  {"id": "EMP004", "name": "赵六", "department": "技术部", "date": "2026-05-01", "check_in": "09:00", "check_out": "18:00", "status": "正常"},
+  {"id": "EMP002", "name": "李四", "department": "市场部", "date": "2026-05-05", "check_in": "09:00", "check_out": "18:00", "status": "正常"},
+  {"id": "EMP002", "name": "李四", "department": "市场部", "date": "2026-05-06", "check_in": "09:00", "check_out": "18:00", "status": "正常"},
+  {"id": "EMP002", "name": "李四", "department": "市场部", "date": "2026-05-07", "check_in": "10:30", "check_out": "18:00", "status": "迟到"},
+  {"id": "EMP003", "name": "王五", "department": "人力资源部", "date": "2026-05-02", "check_in": "09:00", "check_out": "18:00", "status": "正常"}
+]

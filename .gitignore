@@ -1,0 +1,31 @@
+# Node
+web/node_modules/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+
+# Environment & Sensitive Credentials
+.env
+.env.example
+src/hr_assistant/config.py
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+
+# Database
+chroma_db/
+*.db
+
+# Uploaded knowledge base files (PDFs etc.)
+data/knowledge/
+uploads/
+
+# Learning demos (may contain environment-specific configs)
+src/basics/
