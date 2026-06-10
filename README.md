@@ -219,6 +219,18 @@ MIT
 
 ## 更新日志 (Changelog)
 
+### v2.2.0 — 2026-06-10
+
+**新增**
+- 干部简历查询 Agent（`lookup_resume` 工具）：Dify 同款 5 步流水线（参数提取→SQL生成→SQL校验→DB查询→LLM呈现），含可点击简历链接
+- 干部简历独立 API（`server/api/resume_lookup.py`）
+
+**修复**
+- Agent 死循环：新增 `recursion_limit=8` 递归上限 + Prompt 铁律"同一工具最多调1次"
+- 空响应 BUG：`can_emit` 初始 `False` → `True`，修复不需要工具时的 token 被丢弃问题
+
+---
+
 ### v2.1.0 — 2026-06-06
 
 **新增**
